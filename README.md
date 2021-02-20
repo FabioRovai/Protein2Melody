@@ -8,7 +8,7 @@ Librosa allows colab usage, feature which is not possible with pyaudio.
 
 # Colab GPU activation:
 
-Navigate to Edit→Notebook Settings
+Navigate to Edit→Notebook Settings 
 select GPU from the Hardware Accelerator drop-down
 
 # Prerequisites
