@@ -18,10 +18,11 @@ Prerequisites satisfied by Google Colab.
 
 # Project sources
 
-This project is heavily inspired by this Ford Combs research, using librosa rather than pyaudio to play the final sound piece (colab friendly).
-
-
+This project is heavily inspired by this Ford Combs research 
 https://levelup.gitconnected.com/turning-a-protein-into-music-with-python-ba655c694097
+
+replacing librosa to pyaudio in the final output (more colab friendly).
+
 
 https://github.com/yuma-m/synthesizer
 
