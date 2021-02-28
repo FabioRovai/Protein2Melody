@@ -1,7 +1,7 @@
 # Protein2Melody
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OUJZvBX-eWwt_F44bG37DRiscwLk3ne_?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JwABUN3e1vFwxBeaW_6oF1Jiwjw7smsj?usp=sharing)
 
 This project uses librosa to turn Protein into Music.
 Librosa allows colab usage, feature which is not possible with pyaudio.
