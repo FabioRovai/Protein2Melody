@@ -15,6 +15,10 @@ select GPU from the Hardware Accelerator drop-down
 
 Prerequisites satisfied by Google Colab.
 
+# Example Output
+
+https://soundcloud.com/fabio-rovai/lstm-protein-sonification
+
 
 # Project sources
 
