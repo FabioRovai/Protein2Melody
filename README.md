@@ -4,19 +4,22 @@
 
 
 
-## Motivation 
+## Motivation <img src="https://media.giphy.com/media/wLsePI5c7koHGj699C/giphy.gif" width="60" height="60"/>
+
 
 
 Creating a LSTM trained on sonificated amino acid sequences
 
 
 
-## Example Output 
+## Example Output <img src="https://media.giphy.com/media/wLsePI5c7koHGj699C/giphy.gif" width="60" height="60"/>
+
 
 https://soundcloud.com/fabio-rovai/lstm-protein-sonification
 
 
-## Project sources 
+## Project sources <img src="https://media.giphy.com/media/wLsePI5c7koHGj699C/giphy.gif" width="60" height="60"/>
+
 
 
 https://levelup.gitconnected.com/turning-a-protein-into-music-with-python-ba655c694097
