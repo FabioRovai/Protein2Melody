@@ -8,8 +8,21 @@
 
 
 
-Creating a LSTM trained on sonificated amino acid sequences
+This project aims to create an LSTM module trained on the sonificated of a random given amino acid sequence.
 
+
+## Main project aim and implementations <img src="https://media.giphy.com/media/wLsePI5c7koHGj699C/giphy.gif" width="60" height="60"/>
+
+
+Easier and fast upload without the need for a specific input file format.
+
+Librosa library which supports Colab integration.
+
+Implementation of an efficient way to edit the audio duration.
+
+Fast LSTM processing.
+
+Noise reduction.
 
 
 ## Example Output <img src="https://media.giphy.com/media/wLsePI5c7koHGj699C/giphy.gif" width="60" height="60"/>
