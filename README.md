@@ -1,4 +1,4 @@
-# Protein2Melody [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JwABUN3e1vFwxBeaW_6oF1Jiwjw7smsj?usp=sharing)  <img src="https://media.giphy.com/media/wLsePI5c7koHGj699C/giphy.gif" width="60" height="60"/>
+# LSTM Protein Sonification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JwABUN3e1vFwxBeaW_6oF1Jiwjw7smsj?usp=sharing)  <img src="https://media.giphy.com/media/wLsePI5c7koHGj699C/giphy.gif" width="60" height="60"/>
 
 
 
